@@ -1,2 +1,2 @@
 # thera
-first version of Thera site
+Главная страница сайта [Thera](https://theradiaries.app/)
